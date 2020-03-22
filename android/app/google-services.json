@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930734887441",
+    "firebase_url": "https://wema-a4ce4.firebaseio.com",
+    "project_id": "wema-a4ce4",
+    "storage_bucket": "wema-a4ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930734887441:android:686a31c85bef2fe09617b0",
+        "android_client_info": {
+          "package_name": "com.zipbox.covidianoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930734887441-gbkjli1jpbkbj6cko6aj23r3782krtbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CW0FCExB_T-70nLna6RgSGyAB6WCEaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930734887441-gbkjli1jpbkbj6cko6aj23r3782krtbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
